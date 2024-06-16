@@ -30,14 +30,14 @@ print(e)
 # }
 
 
-Example:
-{
-  "id": "6c33cf915a93d3f2e3fc8ed3de7e79f48dc37d02d44e72e8f9b8b19e969985bc",
-  "pubkey": "e51ac385186db52f34c935a601c23f4b7f41d33893293dc44a7cf9ee1c204718",
-  "content": "testing",
-  "kind": 1,
-  "created_at": 1718432659,
-  "tags": [],
-  "sig": "e3c258bdbbd5195287c383fa198bbd11bae0690a56995d996841436a8522dcb569f22808ea83a0f02a16ae650149075140f5c2bf86de941ce1739c5ce8db46ee",
-  "relays": []
-}
+# Example:
+# {
+#   "id": "6c33cf915a93d3f2e3fc8ed3de7e79f48dc37d02d44e72e8f9b8b19e969985bc",
+#   "pubkey": "e51ac385186db52f34c935a601c23f4b7f41d33893293dc44a7cf9ee1c204718",
+#   "content": "testing",
+#   "kind": 1,
+#   "created_at": 1718432659,
+#   "tags": [],
+#   "sig": "e3c258bdbbd5195287c383fa198bbd11bae0690a56995d996841436a8522dcb569f22808ea83a0f02a16ae650149075140f5c2bf86de941ce1739c5ce8db46ee",
+#   "relays": []
+# }
