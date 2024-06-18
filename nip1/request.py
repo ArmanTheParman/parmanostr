@@ -16,3 +16,15 @@ class Request:
 #   "until": <an integer unix timestamp in seconds, events must be older than this to pass>,
 #   "limit": <maximum number of events relays SHOULD return in the initial query>
 # }
+
+class Client:
+    def __init__(self):
+        self.message=None
+    
+class Message:
+    def __init__(self):
+        self.Event=None
+        self.Request=None
+        self.Close=None
+
+    

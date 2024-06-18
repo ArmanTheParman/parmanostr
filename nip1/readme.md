@@ -1,3 +1,7 @@
+### Nostr NIP 1
+
+The NIP will be put into python code in this directory.
+
 https://github.com/nostr-protocol/nips/blob/master/01.md
 
 
